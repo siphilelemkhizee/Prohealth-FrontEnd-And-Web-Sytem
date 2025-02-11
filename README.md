@@ -9,20 +9,19 @@ This front-end and web-based system is designed to streamline medical appointmen
 
 ## 🚀 Key Features
 
-**Role-Based Access:** Different functionalities for doctors, patients, and admins.
+**Role-Based Access:** Different functionalities for the web-based system for doctors, patients, and admins.
 
 **Appointment Scheduling:** Patients can book appointments based on doctor availability.
 
 **Dynamic Timeslot Selection:** Available times are updated based on the selected doctor and date.
 
-**Dashboard Analytics:** Displays earnings, appointment trends, and patient statistics.
+**Dashboard Analytics:** Displays earnings, appointment trends, and patient statistics on the web-based system.
 
 **Data Filtering:** Search and filter appointments by doctor, date, and status.
 
 **Email Notifications:** Integration with SendGrid for appointment confirmations.
 
-
-**Patient Vital Signs Management:** Doctors can update patient details and medical history.
+**Patient Vital Signs Management:** Doctors can update patient details vital signs and medical history.
 
 **Secure Authentication:** Ensures only authorized users can access the system.
 
@@ -30,12 +29,13 @@ This front-end and web-based system is designed to streamline medical appointmen
 
 **Backend:** .NET (C#)
 
-**Frontend:** JavaScript, Bootstrap 3.4.1
+**Frontend:** JavaScript, Bootstrap 3.4.1, 
 
 **Database:** SQL Server
 
 **Email API:** SendGrid
 
+**Technologies:** PowerBI, Git
 
 ## 📸 Screenshots
 ### Websystem
@@ -67,7 +67,7 @@ This front-end and web-based system is designed to streamline medical appointmen
 For security reasons, the full repository is private, but a preview of the system is available.
 
 
-If you would like to see the system in action, please contact the project owner.
+If you would like to see the system in action, please contact me.
 
 ## 📬 Contact
 
