@@ -5,7 +5,7 @@
 
 ## 📌 Project Overview
 
-This web-based system is designed to streamline medical appointment scheduling, allowing doctors and patients to manage their bookings efficiently. It features role-based access, data analytics, and secure authentication for a seamless experience.
+This front-end and web-based system is designed to streamline medical appointment scheduling, allowing doctors and patients to manage their bookings efficiently. It features role-based access, data analytics, and secure authentication for a seamless experience.
 
 ## 🚀 Key Features
 
@@ -28,7 +28,7 @@ This web-based system is designed to streamline medical appointment scheduling, 
 
 ## 🛠️ Tech Stack
 
-**Backend:** ASP.NET (C#)
+**Backend:** .NET (C#)
 
 **Frontend:** JavaScript, Bootstrap 3.4.1
 
@@ -38,7 +38,7 @@ This web-based system is designed to streamline medical appointment scheduling, 
 
 
 ## 📸 Screenshots
-
+### Websystem
 <div align="center">
   <table>
     <tr>
@@ -52,9 +52,21 @@ This web-based system is designed to streamline medical appointment scheduling, 
   </table>
 </div>
 
+### Front-End
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/25de46c1-500e-4486-a54d-199208b7f058" width="450"></td>
+      <td><img src="https://github.com/user-attachments/assets/55b505e6-41c1-4e26-9603-26cd2afc127b" width="450"></td>
+    </tr>
+  </table>
+</div>
+
 ## 🌐 Live Preview / Demo
 
 For security reasons, the full repository is private, but a preview of the system is available.
+
+
 If you would like to see the system in action, please contact the project owner.
 
 ## 📬 Contact
